@@ -16,7 +16,7 @@ gem 'puma', '~> 3.7'
 gem 'sass-rails', '~> 5.0'
 #gem for bootsrtap, requires saa-rails as above
 gem 'bootstrap-sass', '~> 3.3.7'
-
+gem 'jquery-rails' #gem required for bootstrap
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
